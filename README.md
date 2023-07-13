@@ -10,17 +10,14 @@ Runahead execution was initially proposed in HPCA 2003 by Prof. Onur Mutlu.
 ## Implementation
 
 - [kuczmmar/Runahead](https://github.com/kuczmmar/Runahead)
-
 Runahead and Precise Runahead Execution implementation using system simulator gem5
 
 - [lshpku/gem5-runahead](https://github.com/lshpku/gem5-runahead)
-
 Implementing the Precise Runahead (HPCA'20) in gem5.
 
 - [Llemonade/RunaheadWork](https://github.com/Llemonade/RunaheadWork)
 
 - [halworsen/gem5-runahead](https://github.com/halworsen/gem5-runahead)
-
 Implementations of Runahead Execution in the gem5 simulator
 
 ## Paper
